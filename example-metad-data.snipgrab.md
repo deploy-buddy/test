@@ -4,12 +4,6 @@ author: "Sarah Johnson"
 description: "Complete guide to React Hooks with practical examples and best practices"
 difficulty: "intermediate"
 category: "Web Development"
-tags: ["react", "hooks", "frontend", "javascript"]
-prerequisites: ["JavaScript ES6", "React Basics", "HTML/CSS"]
-objectives: 
-  - "Master useState and useEffect hooks"
-  - "Build custom hooks for reusable logic"
-  - "Optimize performance with useMemo and useCallback"
 duration: "2 hours"
 created: "2024-01-15"
 updated: "2024-01-20"
